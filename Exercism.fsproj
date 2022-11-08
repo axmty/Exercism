@@ -10,6 +10,7 @@
         <Compile Include="02_LuciansLusciousLasagna.fs" />
         <Compile Include="03_AnnalynsInfiltration.fs" />
         <Compile Include="04_LogLevels.fs" />
+        <Compile Include="05_TwoFer.fs" />
     </ItemGroup>
     
 </Project>
